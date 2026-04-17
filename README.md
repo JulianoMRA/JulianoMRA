@@ -1,61 +1,90 @@
-<h1 align="left">Olá, meu nome é Juliano!</h1>
+# Juliano Melo Rodrigues Alencar
 
-###
+Desenvolvedor fullstack focado em TypeScript, React e Node.js. Estudante de Ciência da Computação na UFC (5º semestre).
 
-<h2 align="left">Sobre</h2>
+---
 
-###
+## O que estou construindo agora
 
-<p align="left">🎓 Estudante de Ciência da Computação na Universidade Federal do Ceará (5º período), com interesse em desenvolvimento de software e segurança da informação. Tenho buscado construir uma base sólida em lógica, estruturas de dados, sistemas e redes, aplicando os conhecimentos em projetos práticos e atividades extracurriculares.<br><br>💻 Atualmente, sou bolsista Remunerado no Programa de Educação Tutorial (PET) de Computação da Universidade Federal do Ceará (UFC), onde participo ativamente de projetos que integram ensino, pesquisa e extensão. <br><br>🚀 Meu objetivo profissional é atuar com soluções que combinem tecnologia, propósito e impacto real, seja na área de desenvolvimento ou em segurança. Estou sempre em busca de aprimoramento técnico, desafios intelectuais e ambientes colaborativos que estimulem o crescimento.<br><br>📚 Me destaco pela organização, disciplina e pensamento analítico, além do comprometimento com o aprendizado contínuo. Acredito no valor da comunicação clara e no trabalho em equipe como pilares para qualquer projeto bem-sucedido.</p>
+- **ProfRate** — plataforma web e mobile para avaliação anônima de professores e disciplinas. Projeto em grupo da disciplina de Engenharia de Software, em Scrumban, previsto para julho/2026. React + Vite no web, React Native/Expo no mobile, Node/Express + PostgreSQL (Supabase) no backend.
+- **PS 2026 do PET Computação UFC** — coordeno o processo seletivo 2026 do programa, conduzindo o planejamento com um comitê de ~10 membros.
 
-###
+---
 
-<h2 align="left">Stack</h2>
+## Projetos em destaque
 
-###
+**[VanBijouxSys](https://github.com/JulianoMRA/VanBijouxSys)** — ERP desktop de gestão para negócio de bijuterias, em produção.
+8 módulos interdependentes, 62 testes automatizados (unitários + integração), arquitetura Electron com IPC seguro via contextBridge.
+*TypeScript · React 18 · Electron · SQLite · Drizzle ORM · Vitest*
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="40" alt="haskell logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-</div>
+**[Coup Online](https://github.com/JulianoMRA/Coup)** — jogo multiplayer em tempo real jogável pelo navegador. [Jogue aqui](https://coup-rho-ten.vercel.app).
+Monorepo com tipos compartilhados, servidor autoritativo com máquina de estados, comunicação WebSocket. CI/CD automático para Vercel + Railway.
+*TypeScript · Next.js · Express · Socket.IO · GitHub Actions*
 
-###
+**[Fala, Torcedor](https://github.com/JulianoMRA/ProcessoSeletivoG4Flex)** — app mobile fullstack de gestão esportiva, entregue solo como desafio técnico.
+*Flutter · Dart · Node.js · Express · PostgreSQL · REST*
+
+---
+
+## Stack
+
+**Principais:** TypeScript, JavaScript, Python, React, Next.js, Node.js, Express, PostgreSQL, SQLite, Git, Docker.
+
+**Também trabalhei com:** Django, Flutter/Dart, Electron, Socket.IO, Drizzle ORM, Tailwind CSS, Vitest, GitHub Actions, Vercel, Railway, Java, SQL.
+
+---
+
+## Contato
+
+- Email: julianomelorodriguesalencar@gmail.com
+- LinkedIn: [in/julianomra](https://linkedin.com/in/julianomra)
+
+---
+
+<details>
+<summary><b>English version</b></summary>
+
+<br>
+
+# Juliano Melo Rodrigues Alencar
+
+Fullstack developer focused on TypeScript, React, and Node.js. Computer Science student at the Federal University of Ceará (UFC), 5th semester.
+
+---
+
+## What I'm building now
+
+- **ProfRate** — web and mobile platform for anonymous professor and course evaluation. Group project for the Software Engineering course, running Scrumban, expected to ship by July 2026. React + Vite on web, React Native/Expo on mobile, Node/Express + PostgreSQL (Supabase) on the backend.
+- **PS 2026 at PET Computação UFC** — coordinating the 2026 selection process for the program, leading the planning with a ~10-member committee.
+
+---
+
+## Featured projects
+
+**[VanBijouxSys](https://github.com/JulianoMRA/VanBijouxSys)** — desktop ERP for a jewelry business, in production.
+8 interdependent modules, 62 automated tests (unit + integration), Electron architecture with secure IPC via contextBridge.
+*TypeScript · React 18 · Electron · SQLite · Drizzle ORM · Vitest*
+
+**[Coup Online](https://github.com/JulianoMRA/Coup)** — real-time multiplayer card game playable in the browser. [Play here](https://coup-rho-ten.vercel.app).
+Monorepo with shared types, authoritative server with a state machine, WebSocket communication. Automated CI/CD to Vercel + Railway.
+*TypeScript · Next.js · Express · Socket.IO · GitHub Actions*
+
+**[Fala, Torcedor](https://github.com/JulianoMRA/ProcessoSeletivoG4Flex)** — fullstack mobile sports management app, delivered solo as a technical challenge.
+*Flutter · Dart · Node.js · Express · PostgreSQL · REST*
+
+---
+
+## Stack
+
+**Core:** TypeScript, JavaScript, Python, React, Next.js, Node.js, Express, PostgreSQL, SQLite, Git, Docker.
+
+**Also worked with:** Django, Flutter/Dart, Electron, Socket.IO, Drizzle ORM, Tailwind CSS, Vitest, GitHub Actions, Vercel, Railway, Java, SQL.
+
+---
+
+## Contact
+
+- Email: julianomelorodriguesalencar@gmail.com
+- LinkedIn: [in/julianomra](https://linkedin.com/in/julianomra)
+
+</details>
