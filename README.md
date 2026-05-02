@@ -1,6 +1,6 @@
 # Juliano Melo Rodrigues Alencar
 
-Em transição para **QA Engineer / Test Automation** com base sólida em desenvolvimento fullstack (TypeScript, React, Node.js). Estudante de Ciência da Computação na UFC (5º semestre).
+**QA / Test Automation Engineer** com base sólida em desenvolvimento fullstack (TypeScript, React, Node.js). Estudante de Ciência da Computação na UFC (5º semestre).
 
 ---
 
@@ -50,7 +50,7 @@ Em transição para **QA Engineer / Test Automation** com base sólida em desenv
 
 # Juliano Melo Rodrigues Alencar
 
-Transitioning into **QA Engineer / Test Automation** with a solid fullstack background (TypeScript, React, Node.js). Computer Science student at the Federal University of Ceará (UFC), 5th semester.
+**QA / Test Automation Engineer** with a solid fullstack background (TypeScript, React, Node.js). Computer Science student at the Federal University of Ceará (UFC), 5th semester.
 
 ---
 
