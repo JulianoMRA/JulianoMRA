@@ -1,13 +1,14 @@
 # Juliano Melo Rodrigues Alencar
 
-**QA / Test Automation Engineer** com base sólida em desenvolvimento fullstack (TypeScript, React, Node.js). Estudante de Ciência da Computação na UFC (5º semestre).
+**QA Engineer no LSBD/UFC**, atuando em projetos industriais de diagnóstico de hardware para a Lenovo (LDAR e LTAD). Base sólida em desenvolvimento fullstack (TypeScript, React, Node.js). Estudante de Ciência da Computação na UFC (5º semestre).
 
 ---
 
 ## O que estou construindo agora
 
-- **ProfRate** — plataforma web e mobile para avaliação anônima de professores e disciplinas. Projeto em grupo da disciplina de Engenharia de Software, em Scrumban, previsto para julho/2026. React + Vite no web, React Native/Expo no mobile, Node/Express + PostgreSQL (Supabase) no backend.
-- **PS 2026 do PET Computação UFC** — coordeno o processo seletivo 2026 do programa, conduzindo o planejamento com um comitê de ~10 membros. Definição de rubricas e critérios de avaliação como exercício prático de qualidade aplicada a processos.
+**LDAR e LTAD no LSBD** — atuação como QA Engineer (bolsista) no Laboratório de Sistemas e Bancos de Dados da UFC, em projetos de ferramentas de diagnóstico de hardware desenvolvidas para a Lenovo. LDAR (Lenovo Diagnostics for ARM) é meu projeto principal; LTAD (Lenovo ThinkSmart Office Diagnostics) é secundário.
+
+**ProfRate** — plataforma web e mobile para avaliação anônima de professores e disciplinas. Projeto em grupo da disciplina de Engenharia de Software, em Scrumban, previsto para julho/2026. React + Vite no web, React Native/Expo no mobile, Node/Express + PostgreSQL (Supabase) no backend.
 
 ---
 
@@ -32,7 +33,7 @@
 **API & dados:** REST · PostgreSQL · SQLite · Drizzle ORM  
 **Contexto fullstack:** React · Next.js · Node.js · Express · Electron · Tailwind CSS · Socket.IO · Flutter/Dart · Django · Java
 
-**Em estudo agora:** Playwright (E2E web) · pytest · Postman / RestAssured (API) · ISTQB CTFL.
+**Em estudo agora:** Playwright (E2E web) · pytest · Postman / RestAssured (API) · ISTQB CTFL · Jira (em uso no dia a dia).
 
 ---
 
@@ -50,14 +51,15 @@
 
 # Juliano Melo Rodrigues Alencar
 
-**QA / Test Automation Engineer** with a solid fullstack background (TypeScript, React, Node.js). Computer Science student at the Federal University of Ceará (UFC), 5th semester.
+**QA Engineer at LSBD/UFC**, working on industrial hardware diagnostics projects for Lenovo (LDAR and LTAD). Solid fullstack background (TypeScript, React, Node.js). Computer Science student at the Federal University of Ceará (UFC), 5th semester.
 
 ---
 
 ## What I'm building now
 
-- **ProfRate** — web and mobile platform for anonymous professor and course evaluation. Group project for the Software Engineering course, running Scrumban, expected to ship by July 2026. React + Vite on web, React Native/Expo on mobile, Node/Express + PostgreSQL (Supabase) on the backend.
-- **PS 2026 at PET Computação UFC** — coordinating the 2026 selection process for the program, leading the planning with a ~10-member committee. Defining rubrics and evaluation criteria as a hands-on exercise in quality applied to processes.
+**LDAR and LTAD at LSBD** — working as a QA Engineer (scholarship) at the Laboratory of Systems and Databases of UFC, on hardware diagnostics tools developed for Lenovo. LDAR (Lenovo Diagnostics for ARM) is my primary project; LTAD (Lenovo ThinkSmart Office Diagnostics) is secondary.
+
+**ProfRate** — web and mobile platform for anonymous professor and course evaluation. Group project for the Software Engineering course, running Scrumban, expected to ship by July 2026. React + Vite on web, React Native/Expo on mobile, Node/Express + PostgreSQL (Supabase) on the backend.
 
 ---
 
@@ -82,7 +84,7 @@
 **API & data:** REST · PostgreSQL · SQLite · Drizzle ORM  
 **Fullstack context:** React · Next.js · Node.js · Express · Electron · Tailwind CSS · Socket.IO · Flutter/Dart · Django · Java
 
-**Currently learning:** Playwright (E2E web) · pytest · Postman / RestAssured (API) · ISTQB CTFL.
+**Currently learning:** Playwright (E2E web) · pytest · Postman / RestAssured (API) · ISTQB CTFL · Jira (in daily use).
 
 ---
 
